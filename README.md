@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer student in Canada,Toronto </h3>
 <p>A problem solver by nature </p>
 <p>Interests in medical advancement in technology</p>
-<p> Always avaible to broaden my interest in medical advancement in tech </p>
+<p> Always available to broaden my interest in medical advancement in tech </p>
 - 🌱 I’m currently learning **deep learning and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MARYANNE67/MARYANNE67](https://github.com/MARYANNE67/MARYANNE67)
