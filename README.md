@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MARYANNE67/MARYANNE67](https://github.com/MARYANNE67/MARYANNE67)
 
-- 💬 Ask me about **js, css, html and C**
+- 💬 Ask me about **js, css, html, C/C++, Python and Django **
 
 - 📫 How to reach me **maryanneibeh0@gmail.com**
 
