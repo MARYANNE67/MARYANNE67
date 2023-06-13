@@ -3,13 +3,13 @@
 <p>A problem solver by nature </p>
 <p>Interests in medical advancement in technology</p>
 <p> Always available to broaden my interest in medical advancement in tech </p>
-- 🌱 I’m currently learning **deep learning and PHP**
+- 🌱 I’m currently learning **deep learning and Python framework(Django)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MARYANNE67/MARYANNE67](https://github.com/MARYANNE67/MARYANNE67)
 
 - 💬 Ask me about **js, css, html and C**
 
-- 📫 How to reach me **Pannie944@gmail.com**
+- 📫 How to reach me **maryanneibeh0@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/mary-anne-ibeh-07451b248](linkedin.com/in/mary-anne-ibeh-07451b248)
 
