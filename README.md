@@ -3,7 +3,7 @@
 <p>A problem solver by nature </p>
 <p>Interests in medical advancement in technology</p>
 <p> Always available to broaden my interest in medical advancement in tech </p>
-- 🌱 I’m currently learning **deep learning and Python framework(Django)**
+- 🌱 I’m currently learning **deep learning and React**
 
 I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.
 
