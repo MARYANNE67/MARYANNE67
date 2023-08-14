@@ -9,7 +9,7 @@ I am a motivated software engineering student. An enthusiastic learner with a pa
 
 - 📫 How to reach me **maryanneibeh0@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/mary-anne-ibeh-07451b248](https://www.linkedin.com/in/mary-anne-ibeh))
+- 📄 Know about my experiences [linkedin.com/in/mary-anne-ibeh-07451b248](https://www.linkedin.com/in/mary-anne-ibeh)
 
 
 
