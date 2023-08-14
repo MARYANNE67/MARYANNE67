@@ -30,7 +30,3 @@ I am a motivated software engineering student. An enthusiastic learner with a pa
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryanne67&show_icons=true&locale=en&layout=compact" alt="maryanne67" /></p>
-
-
