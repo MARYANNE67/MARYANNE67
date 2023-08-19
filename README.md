@@ -7,9 +7,8 @@
 
 I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.
 
-- 📫 How to reach me **maryanneibeh0@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/mary-anne-ibeh-07451b248](https://www.linkedin.com/in/mary-anne-ibeh)
+- 📄 Connect with me:  [linkedin.com/in/mary-anne-ibeh-07451b248](https://www.linkedin.com/in/mary-anne-ibeh)
 
 
 
