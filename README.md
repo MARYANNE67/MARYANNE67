@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibeh Mary-Anne</h1>
+<h1 align="center">Hi 👋, I'm Mary-Anne</h1>
 <h3 align="center">A software engineer student in Canada,Toronto </h3>
 <p>A problem solver by nature </p>
 <p>Always looking for internship positions for personal and professional development </p>
