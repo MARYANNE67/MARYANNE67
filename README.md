@@ -3,9 +3,10 @@
 <p>A problem solver by nature </p>
 <p>Always looking for internship positions for personal and professional development </p>
 <p>Goal for 2023: Learn MERN stack </p>
- 🌱 I’m currently learning **deep learning and React
+ 🌱 Currently learning: Deep learning and React
 
-I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.
+
+`I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.`
 
 
 
