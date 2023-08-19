@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mary-Anne</h1>
 <h3 align="center">A software engineer student in Canada,Toronto </h3>
 
-👧🏽 A problem solver by nature 
-📈 Always looking for internship positions for personal and professional development 
-💻 Goal for 2023: Learn MERN stack </p>
- 🌱 Currently learning: Deep learning and React
+<p>🕵🏽 A problem solver by nature </p>
+<p>📈 Always looking for internship positions for personal and professional development </p>
+<p>💻 Goal for 2023: Learn MERN stack </p>
+<p🌱 Currently learning: Deep learning and React</p>
 
 <br>
 `I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.`
