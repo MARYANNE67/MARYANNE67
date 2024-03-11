@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary-Anne</h1>
-<h3 align="center">A software engineer student in</h3>
+<h3 align="center">A software engineer student</h3>
 
 <br>
 ` An enthusiastic learner with a passion for acquiring new skills `
