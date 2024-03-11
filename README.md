@@ -1,16 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mary-Anne</h1>
-<h3 align="center">A software engineer student</h3>
 
-<br>
-` An enthusiastic learner with a passion for acquiring new skills `
+### About Me:
+- Avid learner and software engineering student.
+- Enthusiastic coding instructor to kids in my spare time! 🚀
+
+📚 Current Software Engineering Student in Toronto, Canada  
+👩‍💻 Always looking for new internship opportunities to advance my technical skills  
+🌱 I enjoy learning everything and anything in technology!  
+💻 2024 Goal: Learn Deep Learning fundamentals and code archicture 
+😊Fun fact: I'm fluent in three languages and currently learning German just for fun!
+
+### Languages and Tools:
+
+- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- GCP ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+- Next.js ![Next.js](https://img.icons8.com/color/48/000000/next.png)
+- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+- C++/C ![C++/C](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+- Visual Studio Code ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mary-anne-ibeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mary-anne-ibeh-07451b248" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/codingwanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codingwanne" height="30" width="40" /></a>
-</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
