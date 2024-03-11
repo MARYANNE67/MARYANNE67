@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mary-Anne</h1>
-<h3 align="center">A software engineer student in Canada,Toronto </h3>
-
-<p>🕵🏽 A problem solver by nature </p>
-<p>📈 Always looking for internship positions for personal and professional development </p>
-<p>💻 Goal for 2023: Learn MERN stack </p>
-<p🌱 Currently learning: Deep learning and React</p>
+<h3 align="center">A software engineer student in</h3>
 
 <br>
-`I am a motivated software engineering student. An enthusiastic learner with a passion for acquiring new skills, thriving in collaborative team environments. Committed to contributing to projects and achieving optimal outcomes through effective teamwork.`
+` An enthusiastic learner with a passion for acquiring new skills `
 
 
 
@@ -17,7 +12,6 @@
 <a href="https://stackoverflow.com/users/codingwanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codingwanne" height="30" width="40" /></a>
 </p>
 
-## Tech stack I use
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white">
