@@ -11,23 +11,6 @@
 😊Fun fact: I'm fluent in three languages and currently learning German just for fun!
 
 ### Languages and Tools:
-
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- GCP ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
-- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-- Next.js ![Next.js](https://img.icons8.com/color/48/000000/next.png)
-- TypeScript ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- C++/C ![C++/C](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-- Visual Studio Code ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white">
@@ -41,7 +24,11 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
 
 
 
