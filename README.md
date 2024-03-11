@@ -6,9 +6,10 @@
 
 📚 Current Software Engineering Student in Toronto, Canada  
 👩🏾‍💻 Always on the lookout for new internship opportunities to level up my tech skills!  
-🌱 I thrive on learning and embracing new technologies!
-💻 2024 Goal: Learn Deep Learning fundamentals and code archicture 
+🌱 I thrive on learning and embracing new technologies!  
+💻 2024 Goal: Learn Deep Learning fundamentals and code architecture  
 😊 Fun fact: I'm fluent in three languages and currently learning German just for fun!
+
 
 ### Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
